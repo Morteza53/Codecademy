@@ -1,2 +1,2 @@
-#CodeCademy Project
-## Programming in Python
+##Codecademy Project
+# Programming in Python
